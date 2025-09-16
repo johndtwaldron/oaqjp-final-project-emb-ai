@@ -830,34 +830,11 @@ def healthz():
 - [ ] README with run steps, screenshots, and API examples.
 - [ ] Deployed demo URL (optional but strong).
 
-## 9) Bitvocation CV-Doctor tie-ins (reusables)
-- Reuse the **adapter pattern** for model providers (Watson vs OpenAI/HF) for CV parsing/scoring.
+## 9) tie ins and reusables from this project for similar ones
+- Reuse the **adapter pattern** for model providers (Watson vs OpenAI/HF) for doc parsing/scoring.
 - Standardize JSON contracts for score outputs so UI & tests stay stable.
 - Add Playwright smoke: upload → parse → score → result visible.
 - Log + metrics around input size and processing time for triage.
-
----
-
-## Quizzes & Answers (to append as you complete)
-> Paste the quiz question in shorthand, then your answer & reasoning.
-
-### Module 1 Quiz Notes
-- Q: …  
-  A: … (Why: …)
-- Q: …  
-  A: …
-
-### Module 2 Quiz Notes
-- Q: …  
-  A: … (Why: …)
-- Q: …  
-  A: …
-
-### Module 3 Quiz Notes
-- Q: …  
-  A: … (Why: …)
-- Q: …  
-  A: …
 
 ---
 
