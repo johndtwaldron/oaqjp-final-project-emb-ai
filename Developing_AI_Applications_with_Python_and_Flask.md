@@ -959,5 +959,3 @@ Client → Flask route → `ai_core.pipeline.get_emotion(text)` → provider ada
 - [ ] Sensible statuses & messages
 - [ ] Docs: README with run steps + screenshots
 - [ ] Deployed demo (optional)
-
-> Paste raw notes from the project below; we’ll refine into the sections above.
