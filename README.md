@@ -12,14 +12,10 @@ Built as the final project for **Developing AI Applications with Python and Flas
 
 # 🎓 Certification
 
-Cert URL PDF copy of my issued certificate: : .pdf
-
 ![Credly Badge: ](python-project-for-ai-and-application-development.png)
 
 [Cert URL](https://www.coursera.org/learn/python-project-for-ai-application-development?specialization=devops-and-software-engineering)
-PDF copy of my issued certificate: [.pdf](.pdf)
-
-
+PDF copy of my issued certificate: [Developing AI Applications with Python and Flask.Coursera E2V8335NZRNJ.pdf](Developing AI Applications with Python and Flask.Coursera E2V8335NZRNJ.pdf)
 
 ---
 
@@ -34,7 +30,7 @@ PDF copy of my issued certificate: [.pdf](.pdf)
 
 ## 🗂 Project Structure
 
-final_project/
+final_project (at push from lab)/
 ├── EmotionDetection/
 │ ├── init.py # package export: emotion_detector
 │ └── emotion_detection.py # Watson client + formatting + error handling
@@ -96,43 +92,42 @@ For the given statement, the system response is 'anger': 0.029103195, 'disgust':
 
 # 📝 Course Notes (living doc)
 
-See Developing_AI_Applications_with_Python_and_Flask.md for condensed notes, cheatsheets, and quiz answers we compiled during Modules 1–3. (Add/commit this file to the repo root if it isn’t there yet.)
+See [this page](Developing_AI_Applications_with_Python_and_Flask.md) for condensed notes, cheatsheets, and quiz answers we compiled during Modules 1–3. (Add/commit this file to the repo root if it isn’t there yet.)
 
 --- 
 
 # 📸 Screenshot Checklist (Peer-graded)
+![1_folder_structure.png](1_folder_structure.png)
 
-1_folder_structure.png
+![2a_emotion_detection.png](2a_emotion_detection.png)
 
-2a_emotion_detection.png
+![2b_application_creation.png](2b_application_creation.png)
 
-2b_application_creation.png
+![3a_output_formatting.png](3a_output_formatting.png)
 
-3a_output_formatting.png
+![3b_formatted_output_test.png](3b_formatted_output_test.png)
 
-3b_formatted_output_test.png
+![4a_packaging.png](4a_packaging.png)
 
-4a_packaging.png
+![4b_packaging_test.png](4b_packaging_test.png)
 
-4b_packaging_test.png
+![5a_unit_testing.png](5a_unit_testing.png)
 
-5a_unit_testing.png
+![5b_unit_testing_result.png](5b_unit_testing_result.png)
 
-5b_unit_testing_result.png
+![6a_server.png](6a_server.pngg)
 
-6a_server.png
+![6b_deployment_test.png](6b_deployment_test.png)
 
-6b_deployment_test.png
+![7a_error_handling_function.png](7a_error_handling_function.png)
 
-7a_error_handling_function.png
+![7b_error_handling_server.png](7b_error_handling_server.png)
 
-7b_error_handling_server.png
+![7c_error_handling_interface.png](7c_error_handling_interface.png)
 
-7c_error_handling_interface.png
+![8a_server_modified.png](8a_server_modified.png)
 
-8a_server_modified.png
-
-8b_static_code_analysis.png
+![8b_static_code_analysis.png](8b_static_code_analysis.png)
 
 ---
 
