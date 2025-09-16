@@ -8,7 +8,7 @@
 AI-powered web app that detects **anger, disgust, fear, joy,** and **sadness** from text using the IBM **Embeddable Watson NLP** emotion workflow.  
 Built as the final project for **Developing AI Applications with Python and Flask (IBM / Coursera)**.
 
-> 🔖 **Badge earned:** add your badge link/image here once it’s live on Credly.
+> 🔖 **Badge earned:** <badge>
 
 ---
 
